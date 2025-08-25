@@ -1,4 +1,4 @@
-# Awesome Golang.ai
+# AI(Golang Application)
 
 [![GitHub stars](https://img.shields.io/github/stars/promacanthus/awesome-golang-ai?style=social)](https://github.com/promacanthus/awesome-golang-ai)
 [![GitHub forks](https://img.shields.io/github/forks/promacanthus/awesome-golang-ai?style=social)](https://github.com/promacanthus/awesome-golang-ai)
